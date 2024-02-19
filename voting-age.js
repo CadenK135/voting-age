@@ -4,7 +4,7 @@ function checkVotingAge(age) {
   // TODO: Implement this function.
   const result = undefined;
   const VotingAge = 18
-  if (VotingAge<=Age) {
+  if (VotingAge<=age) {
     return true;
   }
   else {
